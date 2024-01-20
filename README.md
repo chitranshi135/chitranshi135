@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitranshi135&label=Profile%20views&color=0e75b6&style=flat" alt="chitranshi135" /> </p>
 
-- 🔭 I’m currently a final year CSE student **at IIITV**
+- 🔭 I’m currently a final year CSE student **at IIITV** and working as an Associate Software Engineer intern at **ServiceNow**
 
 - 🌱 I’m currently learning **Web development & Data Structures and Algorithms**
 
